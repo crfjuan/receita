@@ -1,0 +1,32 @@
+*{
+margin: 0%;
+// padding: 0%;
+box-sizing: border-box;
+}
+
+
+body{
+    background-color: wheat;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(95, 63, 5);;
+}
+
+img{
+    width: 98vw;
+    height: 60vh;
+    margin: 10px;
+}
+
+h1{
+    font-family: "Montagu Slab", serif;
+    color: rgb(95, 63, 5);
+}
+
+main{
+    // 1 valor será aplicado para os 4 lados
+    // 2 valores serão aplicados para 
+    // primeiro valor top, botton, segundo para os lados
+padding: 20px;
+    // top, lef, bottom, right
+padding-left: 20px;
+}
